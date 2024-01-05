@@ -1,4 +1,5 @@
 Business Insights 360 for AtliQ Hardware - Power BI Project 📈💻
+
 Welcome to my first Power BI project! 🚀 This project, focused on Business Insights for AtliQ Hardware, showcases a range of learned technologies and Power BI techniques.
 
 Tech Stack Learned
